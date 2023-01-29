@@ -16,7 +16,7 @@
 
 `title`, `subject`, `heading`, `headline`, `caption` — заголовок
 
-`subtitle` — подзаголовок
+`subtitle`, `label` — подзаголовок
 
 `slogan` — слоган
 
